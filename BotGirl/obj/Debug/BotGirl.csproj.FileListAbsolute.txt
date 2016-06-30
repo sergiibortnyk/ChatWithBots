@@ -1,0 +1,5 @@
+C:\Dropbox\IT\С#\Coding\ChatWithBots\BotGirl\bin\Debug\BotGirl.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\BotGirl\bin\Debug\BotGirl.pdb
+C:\Dropbox\IT\С#\Coding\ChatWithBots\BotGirl\bin\Debug\BotSDK.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\BotGirl\obj\Debug\BotGirl.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\BotGirl\obj\Debug\BotGirl.pdb

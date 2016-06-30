@@ -1,0 +1,9 @@
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\bin\Debug\ChatWithBots.exe.config
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\bin\Debug\ChatWithBots.exe
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\bin\Debug\ChatWithBots.pdb
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.csprojResolveAssemblyReference.cache
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.Properties.Resources.resources
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.csproj.GenerateResource.Cache
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.exe
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.pdb
+C:\Dropbox\IT\С#\Coding\ChatWithBots\ChatWithBots\obj\Debug\ChatWithBots.Form1.resources

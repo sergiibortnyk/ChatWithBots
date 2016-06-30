@@ -1,0 +1,6 @@
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\bin\Debug\Bot.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\bin\Debug\Bot.pdb
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\bin\Debug\BotSDK.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\obj\Debug\Bot.dll
+C:\Dropbox\IT\С#\Coding\ChatWithBots\Bot\obj\Debug\Bot.pdb
